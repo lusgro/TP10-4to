@@ -1,0 +1,9 @@
+.flexOrden {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    height: 100vh;
+}
